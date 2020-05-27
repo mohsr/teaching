@@ -46,6 +46,7 @@ Files for helping me teach Python
 		2. Escape characters
 	3. Lists
 	4. Sets
+		1. Why use a set?
 	5. Dicts
 	6. Homework
 5. Lesson: File I/O
