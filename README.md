@@ -19,7 +19,7 @@ Files for helping me teach Python
 			2. Booleans
 			3. Strings
 	5. Basic input and output
-	6. Homework
+	6. Homework: taking the average
 2. Lesson: Program flow and structure
 	1. If statements
 	2. If-else statements
