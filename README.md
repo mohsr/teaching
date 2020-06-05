@@ -20,15 +20,20 @@ Files for helping me teach Python
 			3. Strings
 	5. Basic input and output
 	6. Homework: taking the average
-2. Lesson: Program flow and structure
-	1. If statements
-	2. If-else statements
-	3. Loops
+2. Lesson: Booleans and program flow
+	1. Booleans and boolean logic
+		1. Boolean operators
+	2. If statements
+	3. If-else statements
+	4. Elif statements
+	5. Loops
 		1. While loops
 		2. For loops
 		3. Break and continue
-	4. Variable scoping
-	5. Homework
+	6. Variable scoping
+	7. Control flow without explicit booleans
+		1. Example: 0 == False, 1 == True
+	8. Homework
 3. Lesson: Functions, in depth
 	1. Anatomy of a function
 		1. Body
@@ -45,10 +50,17 @@ Files for helping me teach Python
 		1. String operations
 		2. Escape characters
 	3. Lists
+		1. List indexing
+		2. List striding
+		3. List splicing
 	4. Sets
 		1. Why use a set?
 	5. Dicts
-	6. Homework
+	6. Null
+	7. The "is" operator
+	8. The "in" operator
+	9. Try...Except blocks
+	10. Homework
 5. Lesson: File I/O
 	1. Reading from a file
 	2. Writing to a file
