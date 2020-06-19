@@ -6,6 +6,8 @@ if True:
 	y = 0
 	# Because y is created inside this if-statement, it can only be used
 	# inside this if statement
+	if True:
+		print(y)
 
 	print(x)
 

@@ -4,7 +4,7 @@ firstchar = x[0]
 
 # Depending on the first character of the input, one of the below blocks will be executed
 # Please note that these blocks can contain more than just one line!
-if (firstchar == "h"):
+if (lower(firstchar) == "h"):
 	print("That starts with an 'h'!")
 elif (firstchar == "f"):
 	print("That starts with an 'f'!")

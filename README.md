@@ -40,6 +40,7 @@ Files for helping me teach Python
 		2. Parameters
 			1. Pass-by-value
 			2. Pass-by-reference
+			3. Default parameters
 		3. Return values
 	3. First-order functions
 		1. Functions as variables
@@ -56,11 +57,13 @@ Files for helping me teach Python
 	4. Sets
 		1. Why use a set?
 	5. Dicts
-	6. Null
-	7. The "is" operator
-	8. The "in" operator
-	9. Try...Except blocks
-	10. Homework
+	6. Tuples
+		1. Why use a tuple?
+	7. Null
+	8. The "is" operator
+	9. The "in" operator
+	10. Try...Except blocks
+	11. Homework
 5. Lesson: File I/O
 	1. Reading from a file
 	2. Writing to a file
